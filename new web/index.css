@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(143, 141, 141);
+    
+}
+.navigation{
+    display: flex;
+    font-size: 19px;
+    text-decoration: none;
+    
+}
+.line{
+ margin: 60px;
+ list-style-type: none;
+ color: #ffff;
+ text-decoration: none;
+}
+main{
+    display: flex;
+}
+.left{
+    width: 50%;
+    
+}
+.right{
+    width: 50%;
+    margin-left: 30%;
+}
+h1{
+    color: yellow;
+    margin-left: 30px;
+}
+.para{
+    font-size: 21px;
+    color: blue;
+    margin: 25px;
+}
+h3{
+    margin-left: 50%;
+    color: rgb(255, 255, 255);
+
+}
